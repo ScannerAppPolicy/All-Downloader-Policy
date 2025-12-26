@@ -1,4 +1,4 @@
-<!-- ---
+---
 
 # Privacy Policy
 
@@ -367,4 +367,4 @@ If you have any questions about this Privacy Policy, You can contact us:
 - `[Date to be set]` - The date when this policy becomes effective
 - `[Your Email Address]` - Your contact email
 - `[Your Website URL]` - Your website URL (if applicable)
-- `[Your Company Address]` - Your company address (if applicable) -->
+- `[Your Company Address]` - Your company address (if applicable)
