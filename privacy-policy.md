@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated:** [Date to be set]
+**Last Updated:** [26-12-2025]
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -33,13 +33,13 @@ For the purposes of this Privacy Policy:
 
 - **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable. Under GDPR (General Data Protection Regulation), You can be referred to as the Data Subject or as the User as you are the individual using the Service.
 
-- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to [YOUR COMPANY NAME]. For the purpose of the GDPR, the Company is the Data Controller.
+- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to [GoalfinsTech]. For the purpose of the GDPR, the Company is the Data Controller.
 
-- **Application** means the software program provided by the Company downloaded by You on any electronic device, named "All in One Downloader".
+- **Application** means the software program provided by the Company downloaded by You on any electronic device, named "All Video Downloader & Saver".
 
 - **Service** refers to the Application.
 
-- **Country** refers to: [Your Country]
+- **Country** refers to: [INDIA]
 
 - **Service Provider** means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used. For the purpose of the GDPR, Service Providers are considered Data Processors.
 
@@ -353,7 +353,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, You can contact us:
 
-- **By email:** [Your Email Address]
+- **By email:** [support@goalfinstech.com]
 - **By visiting this page on our website:** [Your Website URL]
 - **By mail:** [Your Company Address]
 
